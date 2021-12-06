@@ -1,3 +1,0 @@
-/home/falls/Desktop/Projects/LinuxCOMPortReader/bin/CMakeFiles/rebuild_cache.dir
-/home/falls/Desktop/Projects/LinuxCOMPortReader/bin/CMakeFiles/edit_cache.dir
-/home/falls/Desktop/Projects/LinuxCOMPortReader/bin/CMakeFiles/COMReader.dir
