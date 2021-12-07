@@ -1,4 +1,7 @@
 #include <iostream>
+#include <unistd.h>
+
+#include "com.hpp"
 
 /**
  * @brief Main Function
